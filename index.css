@@ -2,7 +2,7 @@ body, html {
     font-size: 1.171303074670571vw;
 }
 
-#box1 {
+#prin {
     width: 20vw;
     height: 10vw;
     display: flex;
@@ -14,7 +14,7 @@ body, html {
     color: #ffffff;
 }
 
-#box2 {
+#titre {
     width: 100%;
     height: 23.30%;
     color: #ffffff;
@@ -24,7 +24,7 @@ body, html {
     background-color: #4e1012;
 }
 
-#box3 {
+#mess {
     width: 100%;
     height: 5.42%;
     color: #ffffff;
@@ -33,7 +33,7 @@ body, html {
     text-align: center;
 }
 
-#box4 {
+#conext {
     width: 100%;
     height: 71,28%;
     display: flex;
