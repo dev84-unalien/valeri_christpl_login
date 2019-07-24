@@ -4,10 +4,10 @@ body, html {
 
 #prin {
     width: 20vw;
-    height: 10vw;
+    height: 40vw;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: start;
     align-items: center;
     box-sizing: border-box;
     background-color: #C1282E;
@@ -18,68 +18,97 @@ body, html {
     width: 100%;
     height: 23.30%;
     color: #ffffff;
-    font-size: 2rem;
-    line-height: 4rem;
+    font-size: 2.2rem;
+    line-height: 9rem;
     text-align: center;
-    background-color: #4e1012;
 }
 
 #mess {
     width: 100%;
-    height: 5.42%;
+    height: 6%;
     color: #ffffff;
-    font-size: 1rem;
+    font-size: 1.5rem;
     line-height: 2rem;
     text-align: center;
+    background-color: #4e1012;
+}
+
+#choice {
+    font-style: italic;
+    font-weight: bold;
+}
+
+#friends {
+    font-style: italic;
+    font-weight: bold;
+}
+
+#public {
+    font-style: italic;
+    font-weight: bold;
 }
 
 #conext {
-    width: 100%;
-    height: 71,28%;
+    width: 70%;
+    height: 70.7%;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: start;
     align-items: center;
     box-sizing: border-box;
+    text-align: center;
     color: #ffffff;
 }
 
 #login {
-    width: 50%;
-    height: 1rem;
+    width: 70%;
+    height: 1.5rem;
     background-color: #ffffff;
     color: #000000;
     font-size: 1rem;
     border: 1px solid #000000;
     border-radius: 2rem;
+    text-align: center;
+    margin-top: 2rem;
 }
 
 #password {
-    width: 50%;
-    height: 1rem;
+    width: 70%;
+    height: 1.5rem;
     background-color: #ffffff;
     color: #000000;
     font-size: 1rem;
     border: 1px solid #000000;
     border-radius: 2rem;
+    text-align: center;
+    margin-top: 0.5rem;
+}
+
+#nr {
+    text-decoration: none;
+    font-size: 0.9rem;
+    color: #ffffff;
+    margin-top: 1rem;
 }
 
 #log {
-    width: 50%;
-    height: 1rem;
+    width: 70%;
+    height: 1.5rem;
     background-color: #22b573;
     color: #ffffff;
     font-size: 1rem;
     border: 1px solid #000000;
     border-radius: 2rem;
+    margin-top: 2rem;
 }
 
 #facebook {
-    width: 50%;
-    height: 1rem;
+    width: 70%;
+    height: 1.5rem;
     background-color: #3b5997;
     color: #ffffff;
     font-size: 1rem;
     border: 1px solid #000000;
     border-radius: 2rem;
+    margin-top: 0.5rem;
 }
