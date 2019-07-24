@@ -1,0 +1,85 @@
+body, html {
+    font-size: 1.171303074670571vw;
+}
+
+#box1 {
+    width: 20vw;
+    height: 10vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    background-color: #C1282E;
+    color: #ffffff;
+}
+
+#box2 {
+    width: 100%;
+    height: 23.30%;
+    color: #ffffff;
+    font-size: 2rem;
+    line-height: 4rem;
+    text-align: center;
+    background-color: #4e1012;
+}
+
+#box3 {
+    width: 100%;
+    height: 5.42%;
+    color: #ffffff;
+    font-size: 1rem;
+    line-height: 2rem;
+    text-align: center;
+}
+
+#box4 {
+    width: 100%;
+    height: 71,28%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    color: #ffffff;
+}
+
+#login {
+    width: 50%;
+    height: 1rem;
+    background-color: #ffffff;
+    color: #000000;
+    font-size: 1rem;
+    border: 1px solid #000000;
+    border-radius: 2rem;
+}
+
+#password {
+    width: 50%;
+    height: 1rem;
+    background-color: #ffffff;
+    color: #000000;
+    font-size: 1rem;
+    border: 1px solid #000000;
+    border-radius: 2rem;
+}
+
+#log {
+    width: 50%;
+    height: 1rem;
+    background-color: #22b573;
+    color: #ffffff;
+    font-size: 1rem;
+    border: 1px solid #000000;
+    border-radius: 2rem;
+}
+
+#facebook {
+    width: 50%;
+    height: 1rem;
+    background-color: #3b5997;
+    color: #ffffff;
+    font-size: 1rem;
+    border: 1px solid #000000;
+    border-radius: 2rem;
+}
