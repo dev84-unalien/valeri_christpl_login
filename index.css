@@ -23,6 +23,10 @@ body, html {
     text-align: center;
 }
 
+#titre span {
+    text-shadow: 0.5rem 0.5rem 0.25rem #941e23;
+}
+
 #mess {
     width: 100%;
     height: 6%;
@@ -60,6 +64,10 @@ body, html {
     color: #ffffff;
 }
 
+#conext p, span {
+    text-shadow: 0.5rem 0.5rem 0.25rem #941e23;
+}
+
 #login {
     width: 70%;
     height: 1.5rem;
@@ -89,6 +97,7 @@ body, html {
     font-size: 0.9rem;
     color: #ffffff;
     margin-top: 1rem;
+    text-shadow: 0.5rem 0.5rem 0.25rem #941e23;
 }
 
 #log {
